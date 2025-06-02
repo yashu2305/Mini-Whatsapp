@@ -1,0 +1,36 @@
+*{
+    margin:0%;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html,body{
+    height:100%;
+    width:100%;
+    background-color: black;
+}
+.title{
+    height: 15%;
+    width: 100%;
+    text-align: center;
+    text-decoration: underline;
+    background-color:aquamarine;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.hero h1{
+    text-align: left;
+    margin-top:  100px;
+    margin-left: 400px;
+    color: aliceblue;
+}
+.hero button{
+    border: 2px solid burlywood ;
+    height: 60px;
+    margin-top: 20px;
+    margin-left:500px;
+    padding: 20px;
+    background-color: rgb(119, 0, 255) ;
+    color: aquamarine;
+}
