@@ -1,2 +1,2 @@
-# Mini-Whatsapp
-A simple chatting app allows to send edit and update the chat
+# Notes Manager
+A simple Notes manager allows to send edit and update and delelte the notes.
